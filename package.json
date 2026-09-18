@@ -1,16 +1,18 @@
 {
-  "name": "spdx-exceptions",
+  "name": "licenses-exceptions",
   "description": "list of SPDX standard license exceptions",
-  "version": "2.5.0",
+  "version": "0.0.1",
   "author": "The Linux Foundation",
   "contributors": [
     "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
   ],
   "license": "CC-BY-3.0",
-  "repository": "kemitchell/spdx-exceptions.json",
+  "repository": "capfei/licenses-exceptions",
   "files": [
-    "index.json",
-    "deprecated.json"
+    "licenses-index.json",
+    "licenses-deprecated.json",
+    "exceptions-index.json",
+    "exceptions-deprecated.json"
   ],
   "scripts": {
     "build": "node build.js",
