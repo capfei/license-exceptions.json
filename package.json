@@ -1,13 +1,13 @@
 {
   "name": "licenses-exceptions",
-  "description": "list of SPDX standard license exceptions",
+  "description": "A list of licenses and exceptions",
   "version": "0.0.1",
   "author": "The Linux Foundation",
   "contributors": [
     "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
   ],
   "license": "CC-BY-3.0",
-  "repository": "capfei/licenses-exceptions",
+  "repository": "capfei/license-exceptions.json",
   "files": [
     "licenses-index.json",
     "licenses-deprecated.json",
